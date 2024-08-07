@@ -1,10 +1,8 @@
-# EDUSOUL Data Checker
+## Version
 
-This tool extracts and validates contact numbers from media files and saves them to an Excel file.
+Current Version: 1.0.0
 
-## Usage
+### Changelog
 
-Run the script using Python:
-
-```bash
-python edusoul.py
+- **1.0.0**
+  - Initial release with core functionality to extract and validate contact numbers from media files.
