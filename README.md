@@ -1,8 +1,8 @@
 ## Version
 
-Current Version: 1.0.0
+Current Version: 2.0.2
 
 ### Changelog
 
-- **1.0.0**
+- **2.0.2**
   - Initial release with core functionality to extract and validate contact numbers from media files.
